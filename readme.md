@@ -3,3 +3,4 @@
 ### Autoras: 
 - Alexia Barbosa Pires
 - Ellen Coutinho Lião da Silva
+- Jéssica Lendaw Silva de Araújo
