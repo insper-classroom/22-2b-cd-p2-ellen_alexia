@@ -1,5 +1,5 @@
 # PROJETO 2 - Ciência de Dados 2022
-## PREDIÇÃO DA EQUIPARÇÃO DE ÍNDICES EDUCACIONAIS ENTRE HOMENS E MULHERES
+## Classificar se um paciente será ou não entubado a partir de dados hospitalares
 ### Autoras: 
 - Alexia Barbosa Pires
 - Ellen Coutinho Lião da Silva
